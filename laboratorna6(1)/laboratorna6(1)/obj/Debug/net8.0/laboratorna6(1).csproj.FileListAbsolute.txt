@@ -1,0 +1,14 @@
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\bin\Debug\net8.0\laboratorna6(1).exe
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\bin\Debug\net8.0\laboratorna6(1).deps.json
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\bin\Debug\net8.0\laboratorna6(1).runtimeconfig.json
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\bin\Debug\net8.0\laboratorna6(1).dll
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\bin\Debug\net8.0\laboratorna6(1).pdb
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\obj\Debug\net8.0\laboratorna6(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\obj\Debug\net8.0\laboratorna6(1).AssemblyInfoInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\obj\Debug\net8.0\laboratorna6(1).AssemblyInfo.cs
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\obj\Debug\net8.0\laboratorna6(1).csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\obj\Debug\net8.0\laboratorna6(1).dll
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\obj\Debug\net8.0\refint\laboratorna6(1).dll
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\obj\Debug\net8.0\laboratorna6(1).pdb
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\obj\Debug\net8.0\laboratorna6(1).genruntimeconfig.cache
+C:\Users\ilja1\Desktop\Лабораторні\laboratorna6(1)\laboratorna6(1)\obj\Debug\net8.0\ref\laboratorna6(1).dll
